@@ -1,21 +1,19 @@
-# Catppuccin YouTube Glow 💜
+# 💜 Catppuccin YouTube Glow
 
-A Catppuccin Mocha theme for YouTube with glassmorphism, blur, and mauve neon accents.
+A Catppuccin Mocha theme for YouTube featuring glassmorphism, blur effects, and mauve accents.
 
 ## ✨ Features
-- Catppuccin Mocha color palette
-- Glassmorphism and blur effects
-- Mauve neon highlights
-- Custom YouTube UI elements
+
+- 🌙 Catppuccin Mocha color palette
+- 🪟 Glassmorphism and blur effects
+- 💜 Mauve neon accents
+- 🎨 Custom YouTube UI styling
+- 📜 Custom scrollbar and player accents
 
 ## 📦 Installation
+
 1. Install [Stylus](https://addons.mozilla.org/en-US/firefox/addon/styl-us/).
-2. Create a new style for YouTube.
-3. Copy the CSS from [`youtube_theme.css`](./youtube_theme.css).
-4. Save and open YouTube.
+2. Open YouTube and create a new Stylus style.
+3. Copy the CSS from [`Catppuccin_Youtube_Glow.txt`](./Catppuccin_Youtube_Glow.txt).
+4. Paste the code and save.
 
-## 📄 Source
-[View CSS](./youtube_theme.css)
-
----
-Made with 💜
